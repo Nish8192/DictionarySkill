@@ -1,0 +1,21 @@
+GetDefinitionIntent define {computer|word}
+GetDefinitionIntent define {mouse|word}
+GetDefinitionIntent define {cup|word}
+GetDefinitionIntent define {cable|word}
+GetDefinitionIntent define {bottle|word}
+GetDefinitionIntent define {table|word}
+GetDefinitionIntent define {screen|word}
+GetDefinitionIntent what is the definition of {cup|word}
+GetDefinitionIntent what is the definition of {mouse|word}
+GetDefinitionIntent what is the definition of {computer|word}
+GetDefinitionIntent what is the definition of {cable|word}
+GetDefinitionIntent what is the definition of {bottle|word}
+GetDefinitionIntent what is the definition of {table|word}
+GetDefinitionIntent what is the definition of {screen|word}
+GetDefinitionIntent what does {computer|word} mean
+GetDefinitionIntent what does {mouse|word} mean
+GetDefinitionIntent what does {cup|word} mean
+GetDefinitionIntent what does {cable|word} mean
+GetDefinitionIntent what does {bottle|word} mean
+GetDefinitionIntent what does {table|word} mean
+GetDefinitionIntent what does {screen|word} mean
